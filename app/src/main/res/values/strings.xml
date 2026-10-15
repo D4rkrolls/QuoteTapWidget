@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quote Tap</string>
+    <string name="widget_description">A thoughtful quote and author, refreshed when you choose</string>
+    <string name="initial_quote">Let this moment be a beginning.</string>
+    <string name="initial_author">— Quote Tap</string>
+</resources>
